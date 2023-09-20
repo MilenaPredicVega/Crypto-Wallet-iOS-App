@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  Wolly Crypto Wallet iOS App
+
+  Created by Milena Predic on 15.9.23..
+  
+*/
+
+//
+
+"wolly" = "Wolly";
+"welcome" = "Dobrodošli na";
+"welcome back" = "Dobrodošli nazad!";
+"login" = "Prijavi se";
